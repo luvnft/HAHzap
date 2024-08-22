@@ -22,7 +22,7 @@ export function RootPage() {
           defaultMessage="Visit {link} to get a Z stream boost paid in Bitcoin!"
           values={{
             link: (
-              <Link to="https://market.arvrtise.com" className="underline" target="_blank">
+              <Link to="https://market.arvrtise.com/listing/f075f269da8b090605e227504777ed3a30ca392eee3f72a9af42cfeaf3ac8035" className="underline" target="_blank">
                 market.arvrtise.com
               </Link>
             ),
