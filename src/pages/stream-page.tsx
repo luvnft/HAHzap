@@ -46,7 +46,7 @@ export function StreamPage({ link, evPreload }: { evPreload?: TaggedNostrEvent; 
     <StreamContextProvider link={link}>
       <div className="xl:grid xl:grid-cols-[auto_450px] 2xl:xl:grid-cols-[auto_500px] max-xl:flex max-xl:flex-col xl:gap-4 max-xl:gap-1 h-full">
         <Helmet>
-          <title>{`${title} - zap.stream`}</title>
+          <title>{`${title} - z.arvrtise.com`}</title>
           <meta name="description" content={descriptionContent} />
           <meta property="og:url" content={`https://${window.location.host}/${link.encode()}`} />
           <meta property="og:type" content="video" />

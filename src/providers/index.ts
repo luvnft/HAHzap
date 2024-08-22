@@ -82,7 +82,7 @@ export interface StreamProviderStreamInfo {
   goal?: string;
 }
 
-export const DefaultProvider = new NostrStreamProvider("zap.stream", DefaultProviderUrl);
+export const DefaultProvider = new NostrStreamProvider("z.arvrtise.com", DefaultProviderUrl);
 
 export class ProviderStore extends ExternalStore<Array<StreamProvider>> {
   #providers: Array<StreamProvider> = [];

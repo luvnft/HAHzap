@@ -31,9 +31,9 @@ export default function DashboardIntro() {
   if (!defaultEndpoint) return;
 
   return (
-    <div className="flex flex-col gap-4 mx-auto xl:w-1/3 lg:w-1/2 bg-layer-1 rounded-xl border border-layer-2 p-6">
+    <div className="flex flex-col gap-4 p-6 mx-auto border xl:w-1/3 lg:w-1/2 bg-layer-1 rounded-xl border-layer-2">
       <h1>
-        <FormattedMessage defaultMessage="Welcome to zap.stream!" />
+        <FormattedMessage defaultMessage="Welcome to Z!" />
       </h1>
       <div className="flex gap-4">
         <div>
@@ -47,7 +47,7 @@ export default function DashboardIntro() {
         <FormattedMessage defaultMessage="Pricing" />
       </h3>
       <p className="text-layer-5">
-        <FormattedMessage defaultMessage="zap.stream is an open source platform powered by the nostr protocol. There are no giant corporations or giant funds available to provide free streaming." />
+        <FormattedMessage defaultMessage="Z Arvrtise Z platform powered by the nostr protocol. There are no giant corporations or giant funds available to provide free streaming." />
       </p>
       <p className="text-layer-5">
         <FormattedMessage

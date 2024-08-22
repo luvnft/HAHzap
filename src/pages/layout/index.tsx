@@ -36,7 +36,7 @@ export function LayoutPage() {
   return (
     <div style={styles}>
       <Helmet>
-        <title>Home - zap.stream</title>
+        <title>Home - Arvrtise Z</title>
       </Helmet>
 
       <HeaderNav />

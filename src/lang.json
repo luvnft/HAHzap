@@ -246,7 +246,7 @@
     "defaultMessage": "Logged in as"
   },
   "DkgCAz": {
-    "defaultMessage": "How do i stream on zap.stream?"
+    "defaultMessage": "How do i stream on Z?"
   },
   "Dn82AL": {
     "defaultMessage": "Live"
@@ -322,10 +322,10 @@
     "defaultMessage": "Name"
   },
   "HDgXO/": {
-    "defaultMessage": "zap.stream is an open source platform powered by the nostr protocol. There are no giant corporations or giant funds available to provide free streaming."
+    "defaultMessage": "Arvrtise Z is the last streaming platform creators need powered by the nostr protocol. There are no giant corporations or giant funds available to provide free streaming."
   },
   "HsgeUk": {
-    "defaultMessage": "Come check out my stream on zap.stream! {link}"
+    "defaultMessage": "Come check out my stream on Arvrtise Z! {link}"
   },
   "Ht231k": {
     "defaultMessage": "Forwarding"
@@ -391,7 +391,7 @@
     "defaultMessage": "Zap Goals"
   },
   "LUvSJB": {
-    "defaultMessage": "zap.stream is free up to 2 hours of hosting at high quality and up to 8 hours of “source” quality. After that you have an option to stream for 5 sats per minute or 10 sats per minute depending on your chosen quality. If you do not use zap.stream to host, pricing will depend on your chosen streaming provider."
+    "defaultMessage": "Arvrtise Z is free up to 2 hours of hosting at high quality and up to 8 hours of “source” quality. After that you have an option to stream for 5 sats per minute or 10 sats per minute depending on your chosen quality. If you do not use zap.stream to host, pricing will depend on your chosen streaming provider."
   },
   "Le+99Z": {
     "defaultMessage": "Streamers pay a small fee to cover our running costs. We give new streamers a credit of {amount} sats (about {time_estimate} of streaming) to get started!"

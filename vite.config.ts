@@ -22,7 +22,7 @@ export default defineConfig({
       },
     }),
     vitePluginVersionMark({
-      name: "zap.stream",
+      name: "arvrtise z",
       ifGitSHA: true,
       command: "git describe --always --tags",
       ifMeta: false,

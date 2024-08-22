@@ -37,7 +37,7 @@ export function getHost(ev?: NostrEvent) {
 }
 
 export function profileLink(meta: CachedMetadata | undefined, pubkey: string) {
-  if (meta && meta.nip05 && meta.nip05.endsWith("@zap.stream") && meta.isNostrAddressValid) {
+  if (meta && meta.nip05 && meta.nip05.endsWith("@arvrtise") && meta.isNostrAddressValid) {
     const [name] = meta.nip05.split("@");
     return `/p/${name}`;
   }

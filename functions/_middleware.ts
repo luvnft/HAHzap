@@ -1,6 +1,6 @@
 interface Env {}
 
-const HOST = "zap.stream";
+const HOST = "z.arvrtise.com";
 
 export const onRequest: PagesFunction<Env> = async context => {
   const u = new URL(context.request.url);

@@ -13,7 +13,7 @@ async function fetchNip05Pubkey(name: string, timeout = 2_000): Promise<string |
   try {
     const res = await fetch(`https://api.snort.social/.well-known/nostr.json?name=${encodeURIComponent(name)}`, {
       headers: {
-        "X-Proxy-Host": "zap.stream",
+        "X-Proxy-Host": "z.arvrtise.com",
       },
     });
     const data: NostrJson = await res.json();
@@ -37,7 +37,7 @@ export const onRequest: PagesFunction<Env> = async context => {
     }
   }
 
-  const response = await fetch(`https://api.zap.stream/.well-known/lnurlp/${pubkey}`);
+  const response = await fetch(`https://api.z.arvrtise.com/.well-known/lnurlp/${pubkey}`);
   const results = await response.text();
   const responseHeaders = Object.fromEntries(response.headers.entries());
   return new Response(results, {
