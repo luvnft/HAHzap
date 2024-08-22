@@ -456,7 +456,7 @@
     "defaultMessage": "Déjelo en blanco si no desea establecer ningún objetivo."
   },
   "PUymyQ": {
-    "defaultMessage": "Visite {name} stream en zap.stream. {link}"
+    "defaultMessage": "Visit {link} to get a Z stream boost paid in Bitcoin!"
   },
   "PXAur5": {
     "defaultMessage": "Retirar"
@@ -925,7 +925,7 @@
     "defaultMessage": "Últimos vídeos"
   },
   "vP4dFa": {
-    "defaultMessage": "Visita {link} para hacerte con productos de zap.stream."
+    "defaultMessage": "Visita {link} para obtener un impulso de Z stream pagado en Bitcoin!"
   },
   "vrTOHJ": {
     "defaultMessage": "{amount} sats"

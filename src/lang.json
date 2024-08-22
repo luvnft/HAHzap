@@ -189,7 +189,7 @@
     "defaultMessage": "Nostr Address"
   },
   "9rmSgv": {
-    "defaultMessage": "OBS (Open Broadcaster Software) is a free and open source software for video recording and live streaming on Windows, Mac and Linux. It is a popular choice with streamers. You'll need to install this to capture your video, audio and anything else you'd like to add to your stream. Once installed and configured to preference, add your Stream URL and Stream Key from the Stream settings to OBS to form a connection with zap.stream."
+    "defaultMessage": "OBS (Open Broadcaster Software) is a free and open source software for video recording and live streaming on Windows, Mac and Linux. It is a popular choice with streamers. You'll need to install this to capture your video, audio and anything else you'd like to add to your stream. Once installed and configured to preference, add your Stream URL and Stream Key from the Stream settings to OBS to form a connection with Z."
   },
   "A1zT+z": {
     "defaultMessage": "Search results: {term}"
@@ -925,7 +925,7 @@
     "defaultMessage": "Latest Videos"
   },
   "vP4dFa": {
-    "defaultMessage": "Visit {link} to get some sweet zap.stream merch!"
+    "defaultMessage": "Visit {link} to get a Z stream boost paid in Bitcoin!"
   },
   "vrTOHJ": {
     "defaultMessage": "{amount} sats"
